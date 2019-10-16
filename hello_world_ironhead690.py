@@ -1,5 +1,4 @@
-// LANGUAGE: Javascript
-// ENV: Node.js
+// LANGUAGE: Python
 // AUTHOR: Demir Baş
 // GITHUB: https://github.com/ironhead690
 print("Hello World!")
